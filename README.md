@@ -1,3 +1,17 @@
+# MOVIE_TRACKER_APP
+
+This project is about a movie tracking. In this project, I used React with Context API, useReducer, and Local Storage. I used TMDB API for movie data.
+
+## App Previews
+![movie-tracker-preview](https://user-images.githubusercontent.com/103375946/184350084-67e4e426-b38b-4cc9-8b74-c679eb16ee89.jpg)
+![movie-tracker-preview2](https://user-images.githubusercontent.com/103375946/184350104-de3d6524-7005-4cce-a290-c39cd698ef42.jpg)
+![movie-tracker-preview3](https://user-images.githubusercontent.com/103375946/184350137-983716ec-8a76-4de1-a571-a06138b97d1b.jpg)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
