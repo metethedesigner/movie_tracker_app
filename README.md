@@ -1,6 +1,6 @@
 # MOVIE_TRACKER_APP
 
-live demo: iridescent-liger-690c67.netlify.app
+live demo: https://iridescent-liger-690c67.netlify.app
 
 This project is about a movie tracking. In this project, I used React with Context API, useReducer, and Local Storage. I used TMDB API for movie data.
 
